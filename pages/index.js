@@ -164,7 +164,7 @@ export default function MediaKit() {
           </div>
           <div className="contact-item">
             <span className="contact-lbl">Email</span>
-            <span className="contact-val">Danishali19ims@gmail.com</span>
+            <span className="contact-val">techstack14@gmail.com</span>
           </div>
           <div className="contact-item">
             <span className="contact-lbl">Phone</span>
